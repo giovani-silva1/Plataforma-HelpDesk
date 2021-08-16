@@ -1,4 +1,4 @@
-package br.com.helpdesk.domain.enums;
+package br.com.helpdesk.enums;
 
 public enum Prioridade {
 
