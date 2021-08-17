@@ -49,6 +49,7 @@ public abstract class Pessoa implements Serializable {
 		this.nome = nome;
 		this.cpf = cpf;
 		this.senha = senha;
+		this.email = email;
 		addPerfil(Perfil.CLIENTE);
 	}
 
